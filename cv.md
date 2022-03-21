@@ -1,5 +1,7 @@
 ####Valeriy Yakovlenko
 
+![my photo](image.jpg)
+
 - **My contacts:**
    - tel: +7 (905) 336-45-78;
    - e-mail: yvaleriyv@gmail.com;
@@ -13,6 +15,9 @@ Higer
 
 **Work experience**
 System administrator
+
+**English level:**
+B1
 
 **Example cod:**
 ```
