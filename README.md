@@ -1,2 +1,4 @@
 # rsschool-cv
-https://github.io/ValVYMax/rsschool-cv/cv
+https://ValVYMax.github.io/rsschool-cv/cv
+
+https://ValVYMax.github.io/rsschool-cv/
