@@ -1,5 +1,4 @@
-####Valeriy Yakovlenko####
-
+#### Valeriy Yakovlenko
 ![My photo](image.jpg)
 
 - **My contacts:**
