@@ -26,4 +26,4 @@ function multiply(a, b){
 }
 ```
 **My projects:**
-[my first project](https://github.com/ValVYMax/rsschool-cv/)
+[my first project](https://github.io/ValVYMax/rsschool-cv/cv)
