@@ -1,6 +1,6 @@
-####Valeriy Yakovlenko
+####Valeriy Yakovlenko####
 
-![my photo](image.jpg)
+![My photo](image.jpg)
 
 - **My contacts:**
    - tel: +7 (905) 336-45-78;
@@ -11,9 +11,9 @@
 Become a frontend developer
 
 **Education:**
-Higer
+Higer education
 
-**Work experience**
+**Work experience:**
 System administrator
 
 **English level:**
@@ -26,4 +26,4 @@ function multiply(a, b){
 }
 ```
 **My projects:**
-[my first project](https://github.io/ValVYMax/rsschool-cv/cv)
+[My first project](https://ValVYMax.github.io/rsschool-cv/cv)
